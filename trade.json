@@ -1,0 +1,63 @@
+{
+  "bit": {
+    "id": "bit",
+    "name": "dwd",
+    "percent": "0.113",
+    "price": "39751.41000000"
+  },
+  "eth": {
+    "id": "eth",
+    "name": "Etherum",
+    "percent": 15,
+    "price": 56
+  },
+  "bch": {
+    "id": "bch",
+    "name": "Etherum",
+    "percent": 15,
+    "price": 56
+  },
+  "ape": {
+    "id": "etherum",
+    "name": "Etherum",
+    "percent": 15,
+    "price": 56
+  },
+  "gmt": {
+    "id": "etherum",
+    "name": "Etherum",
+    "percent": 15,
+    "price": 56
+  },
+  "hard": {
+    "id": "etherum",
+    "name": "Etherum",
+    "percent": 15,
+    "price": 56
+  },
+  "om": {
+    "id": "etherum",
+    "name": "Etherum",
+    "percent": 15,
+    "price": 56
+  },
+  "ogn": {
+    "id": "etherum",
+    "name": "Etherum",
+    "percent": 15,
+    "price": 56
+  },
+  "rare": {
+    "id": "etherum",
+    "name": "Etherum",
+    "percent": 15,
+    "price": 56
+  },
+
+  "nebl": {
+    "id": "etherum",
+    "name": "Etherum",
+    "percent": 15,
+    "price": 56
+  }
+}
