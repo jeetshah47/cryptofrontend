@@ -1,7 +1,7 @@
 var start_btn_cost = document.getElementById("startup-cost");
 
 start_btn.addEventListener("click", () => {
-  fetch("localhost:3000/start?catch=on").then((response) =>
+  fetch("https://cryptobackendindia.herokuapp.com//start").then((response) =>
     alert(response.message)
   );
 });
@@ -9,7 +9,7 @@ start_btn.addEventListener("click", () => {
 var start_btn_nesw = document.getElementById("startup-nesw");
 
 start_btn.addEventListener("click", () => {
-  fetch("localhost:3000/start?catch=on").then((response) =>
+  fetch("https://cryptobackendindia.herokuapp.com//news").then((response) =>
     alert(response.message)
   );
 });
